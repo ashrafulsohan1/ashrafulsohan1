@@ -23,8 +23,8 @@ Looking to network and showcase work. Visit my [portfolio website](ashrafulsohan
 
 ## 📊 Stats & Streak 
 
-<div align="center"> <img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=ashrafulsohan1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub stats"/>
-<img height="175" src="https://streak-stats.demolab.com?user=ashrafulsohan1&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub streak"/> </div>
+<div align="center"> <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=ashrafulsohan1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=ashrafulsohan1&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub streak"/> </div>
 
 ---
 
