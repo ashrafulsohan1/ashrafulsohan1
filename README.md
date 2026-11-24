@@ -32,9 +32,7 @@ Looking to network and showcase work. Visit my [portfolio website](https://iamso
 
 |Project|What It Does|Stack|
 |---|---|---|
-|[Tomato Leaf Disease Detection](https://github.com/ashrafulsohan1/tomato-leaf-disease-detection)|Image classification pipeline with preprocessing, augmentation, MobileNetV2, evaluation & model export|![Python](https://skillicons.dev/icons?i=python) ![Pytorch](https://skillicons.dev/icons?i=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)|
-|[endec](https://github.com/ashrafulsohan1/endec)|Python desktop encryption/decryption tool — Caesar & Vigenère ciphers with Tkinter GUI|![Python](https://skillicons.dev/icons?i=python)|
-|[Bengali Handwritten Text Dataset](https://github.com/ashrafulsohan1/bengali-handwritten-text-dataset)|A small curated dataset on Bengali handwritten text for vision language model (vlm) training|![Python](https://skillicons.dev/icons?i=python) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)|
+
 
 ---
 
@@ -43,22 +41,27 @@ Looking to network and showcase work. Visit my [portfolio website](https://iamso
 <div align="center">
 
 <b>Languages</b><br/>
-<img src="https://skillicons.dev/icons?i=c,py,js,html,css,bash&perline=10"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,bash&perline=10"/>
 
 
 <b>Frontend · Backend · Databases</b><br/>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs,flask,fastapi,sqlite,supabase&perline=10"/>
+<img src="https://skillicons.dev/icons?i=bootstrap,nodejs,flask,fastapi,sqlite&perline=10"/>
 
 
 <b>AI · Data · Scientific Computing</b><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8"/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=8"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=python&logoColor=22d3ee" />
 
 <br><b>DevOps · Hosting · Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,nginx,cloudflare,vercel,arduino,vscode,linux&perline=10"/> </div>
+<img src="https://skillicons.dev/icons?i=git,github,docker,nginx,cloudflare,vercel,vscode,linux&perline=10"/> 
+
+<img src="https://img.shields.io/badge/Hugging_Face-242938?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
+
+</div>
+
 
 ---
 
