@@ -3,7 +3,7 @@
  <h3>Aspiring Cyber Professional | AI Engineer</h3>
 </div>
 
- <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Training+my+skills+like+an+anime+arc;Learning+Security%2B+Concepts+%26+PyTorch;Building+with+code%2C+curiosity%2C+and+controlled+chaos;2026+Goal%3A+contribute+more+to+open+source"/> <br/> <img src="https://komarev.com/ghpvc/?username=0xSpecters&style=for-the-badge&label=PROFILE+VIEWS&color=7c3aed"/> <img src="https://img.shields.io/github/followers/0xSpecters?style=for-the-badge&logo=github&label=Followers&color=06b6d4"/> <img src="https://img.shields.io/github/stars/0xSpecters?style=for-the-badge&logo=github&label=Stars&color=f43f5e"/> </div>
+ <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Training+my+skills+like+an+anime+arc;Learning+Security+%2B+Concepts+%26+PyTorch;Building+with+code,+curiosity,+and+controlled+chaos;2026+Goal:+contribute+more+to+open+source"/> <br/> <img src="https://komarev.com/ghpvc/?username=ashrafulsohan1&style=for-the-badge&label=PROFILE+VIEWS&color=7c3aed"/> <img src="https://img.shields.io/github/followers/ashrafulsohan1?style=for-the-badge&logo=github&label=Followers&color=06b6d4"/> <img src="https://img.shields.io/github/stars/ashrafulsohan1?style=for-the-badge&logo=github&label=Stars&color=f43f5e"/> </div>
 
 ---
 
@@ -23,8 +23,8 @@ Looking to network and showcase work. Visit my [portfolio website](https://iamso
 
 ## 📊 Stats & Streak 
 
-<div align="center"> <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=0xSpecters&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=0xSpecters&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub streak"/> </div>
+<div align="center"> <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=ashrafulsohan1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub stats"/> 
+<img height="170" src="https://streak-stats.demolab.com?user=ashrafulsohan1&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub streak"/> </div>
 
 ---
 
@@ -32,9 +32,9 @@ Looking to network and showcase work. Visit my [portfolio website](https://iamso
 
 |Project|What It Does|Stack|
 |---|---|---|
-|[Tomato Leaf Disease Detection](https://github.com/0xSpecters/tomato-leaf-disease-detection)|Image classification pipeline with preprocessing, augmentation, MobileNetV2, evaluation & model export|![Python](https://skillicons.dev/icons?i=python) ![Pytorch](https://skillicons.dev/icons?i=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)|
-|[endec](https://github.com/0xSpecters/endec)|Python desktop encryption/decryption tool — Caesar & Vigenère ciphers with Tkinter GUI|![Python](https://skillicons.dev/icons?i=python)|
-|[Bengali Handwritten Text Dataset](https://github.com/0xSpecters/bengali-handwritten-text-dataset)|A small curated dataset on Bengali handwritten text for vision language model (vlm) training|![Python](https://skillicons.dev/icons?i=python) ![Pytorch](https://img.shields.io/badge/Pytorch-1f2937?style=flat&logo=python&logoColor=22d3ee)|
+|[Tomato Leaf Disease Detection](https://github.com/ashrafulsohan1/tomato-leaf-disease-detection)|Image classification pipeline with preprocessing, augmentation, MobileNetV2, evaluation & model export|![Python](https://skillicons.dev/icons?i=python) ![Pytorch](https://skillicons.dev/icons?i=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)|
+|[endec](https://github.com/ashrafulsohan1/endec)|Python desktop encryption/decryption tool — Caesar & Vigenère ciphers with Tkinter GUI|![Python](https://skillicons.dev/icons?i=python)|
+|[Bengali Handwritten Text Dataset](https://github.com/ashrafulsohan1/bengali-handwritten-text-dataset)|A small curated dataset on Bengali handwritten text for vision language model (vlm) training|![Python](https://skillicons.dev/icons?i=python) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)|
 
 ---
 
@@ -66,7 +66,7 @@ Looking to network and showcase work. Visit my [portfolio website](https://iamso
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xSpecters&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top languages"/>
+<img height="190" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashrafulsohan1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top languages"/> 
 
 </div>
 
@@ -77,7 +77,7 @@ Looking to network and showcase work. Visit my [portfolio website](https://iamso
 
 <div align="center">
 
-<a href="https://facebook.com/0xSpecters"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://linkedin.com/in/ashrafulsohan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/0xSpecters"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="mailto:ashrafulsohan37@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/></a> <a href="https://patreon.com/pencilic"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
+<a href="https://facebook.com/ashrafulsohan1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://linkedin.com/in/ashrafulsohan1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/ashrafulsohan1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="mailto:ashrafulsohan37@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/></a> <a href="https://patreon.com/pencilic"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
 
 </div>
 
